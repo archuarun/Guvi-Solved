@@ -6,7 +6,7 @@ public class Even {
 		Scanner arun=new Scanner (System.in);
 		i=arun.nextInt();
 		if(i<=0){
-			System.out.println("Invalid");
+			System.out.println("invalid");
 		}
 		else if(i%2==0){
 			System.out.println("Even");
