@@ -13,7 +13,7 @@ public class Even {
 		}
 		else{
 			System.out.println("Odd");
-			arun.close();
+		arun.close();
 		}
 	}
 }
