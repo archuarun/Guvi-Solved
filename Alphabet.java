@@ -9,7 +9,7 @@ public class Alphabet {
 			System.out.println("Alphabets");
 		}
 		else{
-			System.out.println("invalid");
+			System.out.println("No");
 	}
 	}
 }
