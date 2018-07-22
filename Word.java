@@ -9,6 +9,6 @@ public class Word {
 	for(i=1;i<=a;i++){
 		System.out.println(s);
 	}
-
+arun.close();
 }
 }
