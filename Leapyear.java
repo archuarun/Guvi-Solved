@@ -6,10 +6,10 @@ public class Leapyear {
 		Scanner arun=new Scanner(System.in);
 		i=arun.nextInt();
 		if((i%400==0)||i%4==0&&i!=0){
-			System.out.println("Leap Year");
+			System.out.println("yes");
 		}
 			else{
-				System.out.println("Not leap Year");
+				System.out.println("no");
 			}
 		arun.close();
 		}
