@@ -2,13 +2,13 @@ package ak;
 import java.util.Scanner;
 public class Word {
 	public static void main(String...args){
-	String s="Hello";
-	int a,i;
+	String s;
+	int a;
 	Scanner arun=new Scanner(System.in);
+	s=arun.next();
 	a=arun.nextInt();
-	for(i=1;i<=a;i++){
+	for(int i=0;i<a;i++){
 		System.out.println(s);
 	}
-arun.close();
 }
 }
