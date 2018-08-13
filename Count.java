@@ -1,6 +1,6 @@
 package ak;
 import java.util.Scanner;
-public class Count {
+public class Countno {
 	public static void main(String...args){
 		String i,j;
 		Scanner arun=new Scanner(System.in);
